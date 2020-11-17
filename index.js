@@ -25,5 +25,5 @@ else
 }
 /* Write your implementation of displayMessage() */
 
-function displayMessage(messagenew){ 
-    document.getElementById("greeting").innertext = messagenew ;  }
+function displayMessage(strrr){ 
+    document.getElementById("greeting").innertext = strrr ;  }
