@@ -26,5 +26,5 @@ else
 /* Write your implementation of displayMessage() */
 
 function displayMessage(strrr){ 
-  document.getElementById("myBtn").innerText = strrr;}
+  document.getElementById("greeting").innerText = strrr;}
     
